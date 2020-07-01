@@ -18,7 +18,7 @@
         <java.version>1.8</java.version>
         <spring-boot-starter-data-redis.version>2.1.3.RELEASE</spring-boot-starter-data-redis.version>
         <spring-boot-mybatis-version>1.3.2</spring-boot-mybatis-version>
-        <mysql-version>8.0.13</mysql-version>
+        <mysql-version>8.0.16</mysql-version>
         <c3p0-version>0.9.5.2</c3p0-version>
     </properties>
 
